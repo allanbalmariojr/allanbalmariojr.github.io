@@ -26,7 +26,7 @@ This repository demonstrates end-to-end QA engineering skills across the full so
     [Project 8 - Testing w/ Selenium.zip](https://github.com/user-attachments/files/26654423/QA-USA-Python_Automation-main_1774509500.zip)
     
   sprint-9-full-testing-suite/
-    [Final Project_ Tasks.xlsx](https://github.com/user-attachments/files/26654099/Final.Project_.Tasks.xlsx)
+    [Final Project - Web Test Cases (Placing Order) | Mobile Test Cases | API Test Cases.xlsx](https://github.com/user-attachments/files/26654099/Final.Project_.Tasks.xlsx)
     []
     []
     
