@@ -27,9 +27,7 @@ This repository demonstrates end-to-end QA engineering skills across the full so
     
   sprint-9-full-testing-suite/
     [Final Project - Web Test Cases (Placing Order) | Mobile Test Cases | API Test Cases.xlsx](https://github.com/user-attachments/files/26654099/Final.Project_.Tasks.xlsx)
-    []
-    []
-    
+
   bug-reports/
     []
     []
