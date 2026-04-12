@@ -5,14 +5,9 @@ This repository demonstrates end-to-end QA engineering skills across the full so
 
   sprint-2-test-planning-&-test-case-design-(EP & BVA)/
     [Project 2 - Requirements Analysis | Test Planning | EC & BV | Test Cases.xlsx](https://github.com/user-attachments/files/26654351/Project.2_.Task.xlsx)
-    []
-    []
-    []
     
-  sprint-3-advanced-test-design-&-validation/
-  (DevTools, JSON)
-    []
-    []
+  sprint-3-advanced-test-design-&-validation-(DevTools, JSON)/
+    [Project 3 - Requirements Analysis | EC & BV | Test Cases.xlsx](https://github.com/user-attachments/files/26654362/Project.3_.Task.xlsx)
     
   sprint-4-api-testing/
     [Project.4_.Task.xlsx](https://github.com/user-attachments/files/26654098/Project.4_.Task.xlsx)
