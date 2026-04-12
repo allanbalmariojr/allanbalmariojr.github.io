@@ -1,5 +1,9 @@
 # QA Engineering Portfolio - Allan B. Almario Jr.
-Entry-level QA Engineer specialized in automation, API Testing, and end-to-end validation.
+Entry-level QA Engineer specialized in:
+- Automation (Selenium + Python)
+- API Testing (Postman)
+- Database Validation (SQL)
+- End-to-End QA Workflows
 
 
 💼 Featured Projects
