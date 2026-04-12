@@ -28,5 +28,7 @@ This repository demonstrates real-world QA workflows including requirements anal
   sprint-9-full-testing-suite/
     [Final Project - Web Test Cases (Placing Order) | Mobile Test Cases | API Test Cases.xlsx](https://github.com/user-attachments/files/26654099/Final.Project_.Tasks.xlsx)
 
-  bug-reports/ Sprint 9 - Jira Bug Reports (Web, Mobile & API Testing) | Screenshot Evidence of Defects Logged with Reproduction Steps, Severity Classification, and Expected vs Actual Results
+  bug-reports/ 
+    [Sprint 9 - Jira Bug Reports (Web, Mobile & API Testing) | Screenshot Evidence of Defects Logged with Reproduction Steps, Severity Classification, and Expected vs Actual Results.xlsx](https://github.com/user-attachments/files/26662678/Sprint9_Bug_Reports.xlsx)
+
   
