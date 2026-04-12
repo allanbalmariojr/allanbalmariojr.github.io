@@ -1,7 +1,7 @@
 # QA Engineering Portfolio - Allan B. Almario Jr.
-QA Engineer portfolio showcasing manual testing, API testing, SQL validation, mobile testing, and UI automation using Selenium WebDriver with Python.
+QA Engineer portfolio showcasing end-to-end testing across web, mobile, API, database, and automation frameworks using Selenium WebDriver with Python, Postman, and SQL.
 
-This repository demonstrates end-to-end QA engineering skills across the full software testing lifecycle including requirements analysis, test planning, test design, execution, API validation, database testing, and automation framework development.
+This repository demonstrates real-world QA workflows including requirements analysis, test design (Equivalence Partitioning & Boundary Value Analysis), API validation, database testing, mobile testing, and full automation framework development using Page Object Model (POM).
 
   sprint-2-test-planning-&-test-case-design/
     [Project 2 - Requirements Analysis | Test Planning | EC & BV | Test Cases.xlsx](https://github.com/user-attachments/files/26654351/Project.2_.Task.xlsx)
