@@ -4,12 +4,14 @@ QA Engineer portfolio showcasing manual testing, API testing, SQL validation, mo
 This repository demonstrates end-to-end QA engineering skills across the full software testing lifecycle including requirements analysis, test planning, test design, execution, API validation, database testing, and automation framework development.
 
   sprint-2-test-planning-&-test-case-design/
+  (EP & BVA)
     []
     []
     []
     []
     
   sprint-3-advanced-test-design-&-validation/
+  (DevTools, JSON)
     []
     []
     
