@@ -20,7 +20,7 @@ This repository demonstrates end-to-end QA engineering skills across the full so
     [Project 6 - Mobile App Checklist.xlsx](https://github.com/user-attachments/files/26654396/Project.6_.Task.xlsx)
 
   sprint-7-automation-setup/
-    [Project 6 - Python Automation Setup.zip](https://github.com/user-attachments/files/26654419/allana100313__QA-USA-Python_A_1772312437.zip)
+    [Project 7 - Python Automation Setup.zip](https://github.com/user-attachments/files/26654419/allana100313__QA-USA-Python_A_1772312437.zip)
     
   sprint-8-pom-framework/
     [Project 8 - Testing w/ Selenium.zip](https://github.com/user-attachments/files/26654423/QA-USA-Python_Automation-main_1774509500.zip)
