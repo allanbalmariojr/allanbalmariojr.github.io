@@ -17,7 +17,8 @@ This repository demonstrates end-to-end QA engineering skills across the full so
     []
     
   sprint-6-mobile-testing/
-    []
+    [Project 6 - Mobile App Checklist.xlsx](https://github.com/user-attachments/files/26654396/Project.6_.Task.xlsx)
+
     
   sprint-7-automation-setup/
     []
