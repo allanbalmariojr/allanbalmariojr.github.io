@@ -14,7 +14,7 @@ This repository demonstrates end-to-end QA engineering skills across the full so
 
 
   sprint-5-sql-testing/
-    []
+    [Project 5 - SQL Data Validation | Database Testing | Aggregation & Filtering Queries | Business Logic Verification (SQL Query Documentation)]
     
   sprint-6-mobile-testing/
     [Project 6 - Mobile App Checklist.xlsx](https://github.com/user-attachments/files/26654396/Project.6_.Task.xlsx)
