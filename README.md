@@ -10,7 +10,7 @@ This repository demonstrates end-to-end QA engineering skills across the full so
     [Project 3 - Requirements Analysis | EC & BV | Test Cases.xlsx](https://github.com/user-attachments/files/26654362/Project.3_.Task.xlsx)
     
   sprint-4-api-testing/
-    [Project.4_.Task.xlsx](https://github.com/user-attachments/files/26654098/Project.4_.Task.xlsx)
+    [Project 4 - Test Cases.xlsx](https://github.com/user-attachments/files/26654098/Project.4_.Task.xlsx)
 
 
   sprint-5-sql-testing/
