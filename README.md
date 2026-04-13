@@ -55,11 +55,11 @@ QA Skills Demonstrated
 
 - Test Case Design (Equivalence Partitioning, Boundary Value Analysis)
 - Manual Testing (Web, Mobile, API)
-- Test Automation (Selenium WebDriver + Python)
+- Test Automation (Selenium WebDriver, Python, Pytest, POM)
 - Page Object Model (POM) Design Pattern
-- API Testing (Postman, REST validation, Swagger)
-- SQL Database Validation (Data integrity & business logic testing)
-- Bug Reporting (Jira: severity, reproduction steps, expected vs actual results)
+- API Testing (Postman, REST validation, Swagger, JSON)
+- SQL Database Validation (JOINs, GROUP BY, Aggregations)
+- Bug Reporting (Jira)
 - Cross-platform Testing (Web + Mobile + Emulator-based testing)
 - End-to-End Test Flow Execution
 
