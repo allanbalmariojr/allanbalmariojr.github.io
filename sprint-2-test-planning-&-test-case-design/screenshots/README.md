@@ -15,11 +15,4 @@ Test Execution
 
 Evidence
 
-Screenshots of:
-- EC/BVA
-- Test cases
-- Execution results
-- Requirement analysis
-- Test planning
-
-All included in the "screenshots/" folder
+Screenshots of EC/BVA, test cases, execution results, requirement analysis, and test planning all included in the "screenshots/" folder.
