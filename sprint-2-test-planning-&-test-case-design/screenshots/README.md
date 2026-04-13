@@ -17,4 +17,5 @@ Screenshots of:
 - Execution results
 - Requirement analysis
 - Test planning
+
 All included in the "screenshots/" folder
