@@ -51,7 +51,7 @@ Featured Projects
 
 ---
 
-🧪 QA Skills Demonstrated
+QA Skills Demonstrated
 
 - Test Case Design (Equivalence Partitioning, Boundary Value Analysis)
 - Manual Testing (Web, Mobile, API)
@@ -65,7 +65,7 @@ Featured Projects
 
 ---
 
-🛠 Tools & Technologies
+Tools & Technologies
 
 - Selenium WebDriver
 - Python
@@ -79,7 +79,7 @@ Featured Projects
 
 ---
 
-📌 What This Portfolio Demonstrates
+What This Portfolio Demonstrates
 
 - Real-world QA workflows from requirements → test design → execution → bug reporting
 - Strong understanding of functional and integration testing
@@ -90,7 +90,7 @@ Featured Projects
 
 ---
 
-🚀 Goal
+Goal
 
 To contribute as an entry-level QA Engineer by ensuring software quality through structured testing, automation, and continuous improvement of product reliability.
 
