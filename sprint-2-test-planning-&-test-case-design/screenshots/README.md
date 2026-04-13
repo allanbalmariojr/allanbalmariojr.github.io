@@ -4,10 +4,14 @@ Test Design
 - EC/BVA applied
 - Test cases created
 
+---
+
 Test Execution
 
 - Test cases executed against application
 - Results Documented (Pass/Fail)
+
+---
 
 Evidence
 
