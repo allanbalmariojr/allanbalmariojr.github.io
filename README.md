@@ -7,9 +7,9 @@ Entry-level QA Engineer specialized in:
 ---
 💼 Featured Projects
 
-- 🔹 Automation Framework (Selenium + Python + POM)
-- 🔹 API Testing (Postman + validation scripts)
-- 🔹 Full QA Testing Suite (Web + Mobile + API)
+- Automation Framework (Selenium + Python + POM)
+- API Testing (Postman + validation scripts)
+- Full QA Testing Suite (Web + Mobile + API)
 
 ---
 
