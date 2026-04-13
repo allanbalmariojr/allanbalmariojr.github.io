@@ -12,7 +12,9 @@ Entry-level QA Engineer specialized in:
 🔹 API Testing (Postman + validation scripts)
 
 🔹 Full QA Testing Suite (Web + Mobile + API)
+
 ---
+
 🛠 Skills
 
 - Automation: Selenium WebDriver (Python)
@@ -20,7 +22,9 @@ Entry-level QA Engineer specialized in:
 - Database: SQL
 - Test Design: EC & BV
 - Bug Tracking: Jira
+
 ---
+
 📌 What I Demonstrate
 
 - Real-world QA workflows
