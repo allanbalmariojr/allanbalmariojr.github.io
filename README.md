@@ -8,9 +8,9 @@ Entry-Level QA Engineer specializing in:
 
 ---
 
-💼 Featured Projects
+Featured Projects
 
-   🔹 End-to-End QA Testing Suite (Web + Mobile + API)
+🔹 End-to-End QA Testing Suite (Web + Mobile + API)
 - Designed and executed full QA lifecycle testing for a multi-platform Uber-like application
 - Created structured test cases using Equivalence Partitioning (EP) and Boundary Value Analysis (BVA)
 - Executed functional, integration, and UI testing across web and mobile environments
@@ -19,7 +19,7 @@ Entry-Level QA Engineer specializing in:
 
 ---
 
-   🔹 Automation Framework (Selenium + Python + POM)
+🔹 Automation Framework (Selenium + Python + POM)
 - Built a Page Object Model (POM) automation framework using Selenium WebDriver and Python
 - Implemented reusable methods, locators, and structured test architecture
 - Automated end-to-end user flows including route creation, phone verification, payment, and order confirmation
@@ -27,7 +27,7 @@ Entry-Level QA Engineer specializing in:
 
 ---
 
-   🔹 API Testing Suite (Postman)
+🔹 API Testing Suite (Postman)
 - Tested REST APIs using Postman and Swagger documentation
 - Validated POST and DELETE endpoints for courier registration and deletion
 - Verified HTTP status codes, response payloads, and backend data integrity
@@ -35,7 +35,7 @@ Entry-Level QA Engineer specializing in:
 
 ---
 
-   🔹 Database Testing (SQL Validation)
+🔹 Database Testing (SQL Validation)
 - Performed data integrity testing on a venture capital analytics database
 - Wrote SQL queries using SELECT, WHERE, GROUP BY, HAVING, CASE, and aggregate functions
 - Validated backend consistency across companies, funding rounds, acquisitions, and investments
