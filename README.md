@@ -20,23 +20,23 @@ I have hands-on experience working across UI, API and database validation using 
 
 ## 🧠 QA Skills & Tools
 
-🧪 Testing Types
+### 🧪 Testing Types
 
 Manual Testing, API Testing, UI Testing, Mobile Testing, Regression Testing
 
-📐 Test Design Techniques
+###  📐 Test Design Techniques
 
 Equivalence Partitioning (EP), Boundary Value Analysis (BVA), Functional Testing, Exploratory Testing
 
-🤖 Automation
+### 🤖 Automation
 
 Selenium WebDriver (Python), Pytest, Page Object Model (POM)
 
-🗄️ Data & Backend Validation
+### 🗄️ Data & Backend Validation
 
 SQL Data Validation, JSON Response Validation
 
-🛠️ Tools
+### 🛠️ Tools
 
 Postman, Swagger, Jira, Git/GitHub, Chrome DevTools, Android Emulator
 
