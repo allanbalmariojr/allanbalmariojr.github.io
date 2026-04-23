@@ -1,6 +1,5 @@
 # QA Engineering Portfolio - Allan B. Almario Jr.
-Hi, I'm Allan! 
-A QA Engineer focused on manual testing, API testing, and test automation using Selenium and Playwright.
+Hi, I'm Allan - a QA Engineer focused on manual testing, API testing, and test automation using Selenium and Playwright.
 
 ---
 
