@@ -3,7 +3,7 @@ Hi! I'm Allan - a QA Engineer focused on manual testing, API testing, and test a
 
 ---
 
-👤 About Me
+## 👤 About Me
 
 💼 QA Engineer (Entry-Level)
 
