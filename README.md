@@ -12,7 +12,7 @@ I specialize in manual and automated software testing, focusing on ensuring prod
 I have hands-on experience working across UI, API, and database layers, applying QA methodologies to identify edge cases and validate system behavior.
 
 - 📧 Email: AllanBAlmarioJr@gmail.com
-- 🔗 LinkedIn: [Allan B. Almario Jr.](https://www.linkedin.com/in/allanalmariojr/)
+- 🔗 LinkedIn: [Allan B. Almario Jr. | LinkedIn](https://www.linkedin.com/in/allanalmariojr/)
 - 📄 Resume: [View Resume](https://github.com/user-attachments/files/27022432/Github.Resume.docx)
 - 📍 Location: Lakewood, WA
 
