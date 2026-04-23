@@ -56,7 +56,9 @@ Android Emulator | Jira
 
 Manual mobile testing with structured test cases and defect reporting.
 
-- UI + API + SQL
+- QA Capstone Project
+
+UI + API + SQL
 
 Full end-to-end QA lifecycle simulation across multiple layers.
 
