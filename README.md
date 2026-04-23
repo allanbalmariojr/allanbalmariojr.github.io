@@ -7,7 +7,7 @@ Hi! I'm Allan - a QA Engineer focused on manual testing, API testing, and test a
 
 💼 QA Engineer (Entry-Level)
 
-🎯 I specialize in manual and automated software testing, focusing on ensuring product quality through structured test design, execution, and bug reporting.
+I specialize in manual and automated software testing, focusing on ensuring product quality through structured test design, execution, and bug reporting.
 
 I have hands-on experience working across UI, API, and database layers, applying QA methodologies to identify edge cases and validate system behavior.
 
