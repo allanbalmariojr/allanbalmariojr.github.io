@@ -54,7 +54,7 @@ Postman, Swagger, Jira, Git/GitHub, Chrome DevTools, Android Emulator
 - Focus on edge cases and negative testing scenarios
 - Validate system behavior across UI, API, and database layers
 - Write clear, reproducible bug reports with steps and expected results
-- Build reusable and maintainable automation frameworks
+- Build UI automation frameworks using Selenium and Page Object Model
 - Apply structured QA methodology in all testing activities
 
 ---
