@@ -41,19 +41,23 @@ I have hands-on experience working across UI, API, and database layers, applying
 - Urban Routes – UI Automation
 
 Selenium | Python | POM
+
 End-to-end UI automation framework for core user workflows.
 
 - Urban Grocers – API Testing
 
 Postman | Swagger | SQL
+
 API test suite with positive, negative, and boundary validation.
 
 - Urban Lunch – Mobile Testing
 
 Android Emulator | Jira
+
 Manual mobile testing with structured test cases and defect reporting.
 
 - UI + API + SQL
+
 Full end-to-end QA lifecycle simulation across multiple layers.
 
 ---
