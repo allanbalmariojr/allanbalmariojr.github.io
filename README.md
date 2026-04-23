@@ -3,7 +3,7 @@ Hi! I'm Allan - a QA Engineer focused on manual testing, API testing, and test a
 
 ---
 
-👤 About Me
+## 👤 About Me
 
 💼 QA Engineer (Entry-Level)
 
@@ -18,7 +18,7 @@ I have hands-on experience working across UI, API and database validation using 
 
 ---
 
-🧠 QA Skills & Tools
+## 🧠 QA Skills & Tools
 
 🧪 Testing Types
 
@@ -42,7 +42,7 @@ Postman, Swagger, Jira, Git/GitHub, Chrome DevTools, Android Emulator
 
 ---
 
-📂 Featured Projects
+## 📂 Featured Projects
 - Manual, API & SQL Testing Suite (QA Portfolio) - Repo 1
 - Selenium Automation Framework (Python + POM) - Repo 2
 - Playwright UI Automation Project - Repo 3
@@ -50,7 +50,7 @@ Postman, Swagger, Jira, Git/GitHub, Chrome DevTools, Android Emulator
 
 ---
 
-🧠 QA Approach
+## 🧠 QA Approach
 - Focus on edge cases and negative testing scenarios
 - Validate system behavior across UI, API, and database layers
 - Write clear, reproducible bug reports with steps and expected results
@@ -59,7 +59,7 @@ Postman, Swagger, Jira, Git/GitHub, Chrome DevTools, Android Emulator
 
 ---
 
-📜 Certification
+## 📜 Certification
 
 [TripleTen QA Engineer Program - Certificate of Completion (April 2026)](https://github.com/user-attachments/files/27022731/Allan.Baquiran_Almario.Jr_QA.1.pdf)
 
