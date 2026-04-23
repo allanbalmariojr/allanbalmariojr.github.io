@@ -19,6 +19,7 @@ I have hands-on experience working across UI, API, and database layers, applying
 ---
 
 🧠 QA Skills & Tools
+
 🧪 Testing Types
 
 Manual Testing, API Testing, UI Testing, Mobile Testing, Regression Testing
