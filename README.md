@@ -21,6 +21,8 @@ Hi! I'm Allan - a QA Engineer focused on manual testing, API testing, and test a
 
 - 📧 Email: AllanBAlmarioJr@gmail.com
 - 🔗 LinkedIn: [Allan B. Almario Jr.](https://www.linkedin.com/in/allanalmariojr/)
+- 📄 Resume: [Preview & Download PDF](https://github.com/user-attachments/files/27022432/Github.Resume.docx)
+
 - 📍 Location: Lakewood, WA
 
 ---
