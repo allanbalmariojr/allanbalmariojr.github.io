@@ -47,5 +47,41 @@ Hi! I'm Allan - a QA Engineer focused on manual testing, API testing, and test a
 ---
 
 📂 Featured Projects
+- Portfolio 1
+- Portfolio 2
+- Portfolio 3
+- Portfolio 4
+
+---
+
+📈 Skills Demonstrated
+- Test case design (EP, BVA, functional testing)
+- API validation using Postman
+- SQL query writing for data verification
+- UI automation with Selenium (POM design)
+- Cross-browser testing
+- Mobile emulator testing
+
+---
+
+🧠 QA Approach
+I focus on:
+- Edge cases and negative testing
+- Data validation across UI and backend
+- Clear bug reporting with reproducible steps
+- Writing reusable and scalable automation code
+
+---
+
+📜 Certification
+[TripleTen QA Engineer Program - Certificate of Completion (April 2026)](https://github.com/user-attachments/files/27022731/Allan.Baquiran_Almario.Jr_QA.1.pdf)
+
+
+- Training in manual, API, mobile, and automation testing
+- Hands-on experience with Selenium (Python), Postman, SQL, and Jira
+- Applied EP/BVA test design and built automation frameworks using POM
+
+
+
 
 
