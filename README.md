@@ -30,7 +30,7 @@ Equivalence Partitioning (EP), Boundary Value Analysis (BVA), Functional Testing
 
 🤖 Automation
 
-Selenium WebDriver (Python) Pytest, Page Object Model (POM)
+Selenium WebDriver (Python), Pytest, Page Object Model (POM)
 
 🗄️ Data & Backend Validation
 
