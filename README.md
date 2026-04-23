@@ -74,6 +74,7 @@ I focus on:
 ---
 
 📜 Certification
+
 [TripleTen QA Engineer Program - Certificate of Completion (April 2026)](https://github.com/user-attachments/files/27022731/Allan.Baquiran_Almario.Jr_QA.1.pdf)
 
 
