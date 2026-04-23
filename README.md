@@ -17,6 +17,8 @@ Hi! I'm Allan - a QA Engineer focused on manual testing, API testing, and test a
 - UI test automation using Selenium (Page Object Model)
 - Mobile and end-to-end system testing
 
+🔍 Passionate about delivering reliable software by identifying edge cases, validating system behavior across UI, API, and database layers, and improving quality through structured testing practices.
+
 - 📧 Email: AllanBAlmarioJr@gmail.com
 - 🔗 LinkedIn: [Allan B. Almario Jr.](https://www.linkedin.com/in/allanalmariojr/)
 - 📍 Location: Lakewood, WA
