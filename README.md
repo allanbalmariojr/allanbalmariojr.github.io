@@ -11,18 +11,15 @@ I specialize in manual and automated software testing, focusing on ensuring prod
 
 I have hands-on experience working across UI, API, and database layers, applying QA methodologies to identify edge cases and validate system behavior.
 
-🔍 Passionate about delivering reliable software by identifying edge cases, validating system behavior across UI, API, and database layers, and improving quality through structured testing practices.
-
 - 📧 Email: AllanBAlmarioJr@gmail.com
 - 🔗 LinkedIn: [Allan B. Almario Jr.](https://www.linkedin.com/in/allanalmariojr/)
 - 📄 Resume: [Preview & Download PDF](https://github.com/user-attachments/files/27022432/Github.Resume.docx)
-
 - 📍 Location: Lakewood, WA
 
 ---
 
-🧪 What I Do
-- Manual QA Testing (Test design, execution, bug reporting)
+🧠 QA Focus Areas
+- Manual QA Testing (test design, execution, bug reporting)
 - API Testing (Postman, Swagger validation)
 - SQL Data Validation
 - UI Automation (Selenium, Playwright)
