@@ -18,49 +18,43 @@ I have hands-on experience working across UI, API, and database layers, applying
 
 ---
 
-🧠 QA Focus Areas
-- Manual QA Testing (test design, execution, bug reporting)
-- API Testing (Postman, Swagger validation)
-- SQL Data Validation
-- UI Automation (Selenium, Playwright)
+🧠 QA Skills & Tools
+🧪 Testing Types
 
----
+Manual Testing, API Testing, UI Testing, Mobile Testing, Regression Testing
 
-🛠️ Tools & Technologies
-- Selenium (Python)
-- Playwright
-- Postman
-- SQL
-- Jira
-- Chrome DevTools
-- Git & GitHub
+📐 Test Design Techniques
+
+Equivalence Partitioning (EP), Boundary Value Analysis (BVA), Functional Testing, Exploratory Testing
+
+🤖 Automation
+
+Selenium WebDriver (Python), Playwright, Pytest, Page Object Model (POM)
+
+🗄️ Data & Backend Validation
+
+SQL Data Validation, JSON Response Validation
+
+🛠️ Tools
+
+Postman, Swagger, Jira, Git/GitHub, Chrome DevTools, Android Emulator
 
 ---
 
 📂 Featured Projects
-- QA-Portfolio (Manual, API & SQL Testing) - Repo 1
+- Manual, API & SQL Testing Suite (QA Portfolio) - Repo 1
 - Selenium Automation Framework (Python + POM) - Repo 2
 - Playwright UI Automation Project - Repo 3
-- End-to-End QA Testing Project (Web, Mobile & API) - Repo 4
-
----
-
-📈 Skills Demonstrated
-- Test case design (EP, BVA, functional testing)
-- API validation using Postman
-- SQL query writing for data verification
-- UI automation with Selenium (POM design)
-- Cross-browser testing
-- Mobile emulator testing
+- End-to-End QA Testing System (Web, Mobile & API) - Repo 4
 
 ---
 
 🧠 QA Approach
-I focus on:
-- Edge cases and negative testing
-- Data validation across UI and backend
-- Clear bug reporting with reproducible steps
-- Writing reusable and scalable automation code
+- Focus on edge cases and negative testing scenarios
+- Validate system behavior across UI, API, and database layers
+- Write clear, reproducible bug reports with steps and expected results
+- Build reusable and maintainable automation frameworks
+- Apply structured QA methodology in all testing activities
 
 ---
 
