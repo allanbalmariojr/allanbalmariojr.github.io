@@ -9,13 +9,7 @@ Hi! I'm Allan - a QA Engineer focused on manual testing, API testing, and test a
 
 🎯 I specialize in manual and automated software testing, focusing on ensuring product quality through structured test design, execution, and bug reporting.
 
-🧪 Experience includes:
-- Manual testing using Agile/Scrum workflows
-- Test case design using Equivalence Partitioning & Boundary Value Analysis
-- API testing using Postman and Swagger
-- SQL-based data validation
-- UI test automation using Selenium (Page Object Model)
-- Mobile and end-to-end system testing
+I have hands-on experience working across UI, API, and database layers, applying QA methodologies to identify edge cases and validate system behavior.
 
 🔍 Passionate about delivering reliable software by identifying edge cases, validating system behavior across UI, API, and database layers, and improving quality through structured testing practices.
 
