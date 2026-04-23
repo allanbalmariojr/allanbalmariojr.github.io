@@ -43,3 +43,8 @@ Hi! I'm Allan - a QA Engineer focused on manual testing, API testing, and test a
 - Chrome DevTools
 - Git & GitHub
 
+---
+
+📂 Featured Projects
+
+
