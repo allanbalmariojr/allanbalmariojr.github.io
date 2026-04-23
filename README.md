@@ -38,10 +38,10 @@ I have hands-on experience working across UI, API, and database layers, applying
 ---
 
 📂 Featured Projects
-- QA Manual + API Testing Suite - Repo 1
-- Selenium Automation Framework - Repo 2
-- Playwright Automation Project - Repo 3
-- QA Capstone Simulation - Repo 4
+- QA-Portfolio (Manual, API & SQL Testing) - Repo 1
+- Selenium Automation Framework (Python + POM) - Repo 2
+- Playwright UI Automation Project - Repo 3
+- End-to-End QA Testing Project (Web, Mobile & API) - Repo 4
 
 ---
 
