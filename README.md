@@ -1,5 +1,5 @@
 # QA Engineering Portfolio - Allan B. Almario Jr.
-Hi! I'm Allan - a QA Engineer focused on manual testing, API testing, and test automation using Selenium and Playwright.
+Hi! I'm Allan - a QA Engineer focused on manual testing, API testing, and test automation using Selenium.
 
 ---
 
@@ -30,7 +30,7 @@ Equivalence Partitioning (EP), Boundary Value Analysis (BVA), Functional Testing
 
 🤖 Automation
 
-Selenium WebDriver (Python), Playwright, Pytest, Page Object Model (POM)
+Selenium WebDriver (Python) Pytest, Page Object Model (POM)
 
 🗄️ Data & Backend Validation
 
