@@ -69,9 +69,7 @@ I focus on:
 [TripleTen QA Engineer Program - Certificate of Completion (April 2026)](https://github.com/user-attachments/files/27022731/Allan.Baquiran_Almario.Jr_QA.1.pdf)
 
 
-- Training in manual, API, mobile, and automation testing
-- Hands-on experience with Selenium (Python), Postman, SQL, and Jira
-- Applied EP/BVA test design and built automation frameworks using POM
+- Training in manual testing, API testing, SQL validation, and UI automation using Selenium (Python) and Pytest.
 
 
 
