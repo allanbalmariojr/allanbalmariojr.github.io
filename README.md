@@ -38,10 +38,10 @@ I have hands-on experience working across UI, API, and database layers, applying
 ---
 
 📂 Featured Projects
-- Repo 1
-- Repo 2
-- Repo 3
-- Repo 4
+- QA Manual + API Testing Suite - Repo 1
+- Selenium Automation Framework - Repo 2
+- Playwright Automation Project - Repo 3
+- QA Capstone Simulation - Repo 4
 
 ---
 
