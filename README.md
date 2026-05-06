@@ -52,10 +52,10 @@ Postman, Swagger, Jira, Git/GitHub, Chrome DevTools, Android Emulator
 
 ## 🧠 QA Approach
 - Focus on edge cases and negative testing scenarios
-- Validate system behavior across UI, API, and database layers
-- Write clear, reproducible bug reports with steps and expected results
-- Build UI automation frameworks using Selenium and Page Object Model
-- Apply structured QA methodology in all testing activities
+- Validate functionality across UI, API, and database layers
+- Design test cases using equivalence partitioning and boundary value analysis
+- Write clear, reproducible bug reports with detailed steps
+- Build maintainable automation frameworks using Selenium and POM
 
 ---
 
