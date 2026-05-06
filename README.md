@@ -7,9 +7,9 @@ Hi! I'm Allan - a QA Engineer focused on manual testing, API testing, and test a
 
 ### 💼 QA Engineer (Entry-Level)
 
-I specialize in manual and automated software testing, focusing on ensuring product quality through structured test design, execution, and bug reporting.
+I’m a QA Engineer with hands-on experience testing web and mobile applications through manual testing, API validation, and UI automation.
 
-I have hands-on experience working across UI, API and database validation using SQL queries, applying QA methodologies to identify edge cases and validate system behavior.
+I’ve worked on end-to-end testing workflows including test case design, bug reporting, API testing with Postman, SQL data validation, and building Selenium automation frameworks using Python and PyTest.
 
 - 📧 Email: AllanBAlmarioJr@gmail.com
 - 🔗 LinkedIn: [Allan B. Almario Jr.](https://www.linkedin.com/in/allanalmariojr/)
