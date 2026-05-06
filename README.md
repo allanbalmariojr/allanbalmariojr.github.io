@@ -42,10 +42,7 @@ Postman, Swagger, Jira, Git/GitHub, Chrome DevTools, Android Studio
 ## 📂 Featured Projects
 ### 🔹 [Urban Routes Selenium Automation](https://github.com/allanbalmariojr/selenium-automation-urban-routes)
 Automated complete end-to-end user flows including route setup, phone authentication (SMS verification), payment method (card), and taxi order placement using Selenium WebDriver, Python, and PyTest.
-
--
--
--
+Implemented a Page Object Model (POM) framework to improve maintainability and separation of concerns across test logic and page interactions.
 
 ---
 
