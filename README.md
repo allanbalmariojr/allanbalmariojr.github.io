@@ -43,7 +43,7 @@ Postman, Swagger, Jira, Git/GitHub, Chrome DevTools, Android Emulator
 ---
 
 ## 📂 Featured Projects
-- [Urban Routes Automation Framework](https://github.com/allanbalmariojr/Manual-API-SQL-Testing-Suite-QA-Portfolio-)
+- [Urban Routes Automation Framework](https://github.com/allanbalmariojr/selenium-automation-urban-routes)
 -
 -
 -
