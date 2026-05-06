@@ -53,13 +53,13 @@ Postman, Swagger, Jira, Git/GitHub, Chrome DevTools, Android Studio
 - Covered comprehensive test scenarios including positive and negative cases, boundary value testing, XML payload validation, ID and quantity constraints, and error-handling behavior under invalid inputs.
 
 ### 🔹 [VentureInsight SQL Data Validation & Analysis](https://github.com/allanbalmariojr/ventureinsight-sql-data-validation)
-- Performed database validation and data integrity checks for a venture capital analytics platform using SQL.
+- Performed structured database validation and backend data testing for a venture capital analytics platform using SQL.
 
-- Designed and executed queries to verify consistency between application data and database records across startups, funding rounds, acquisitions, and investment activities.
+- Designed and executed complex SQL queries to validate data integrity, business logic consistency, and application-to-database alignment across multiple relational tables, including startups, funding rounds, acquisitions, investments, and investor profiles.
 
-- Applied SQL techniques including filtering, aggregation, grouping, conditional logic (CASE statements), and pattern matching to validate business rules, detect anomalies, and ensure accurate reporting for financial and investment data.
+- Applied core SQL testing techniques such as filtering (WHERE), aggregation (SUM, COUNT, AVG), grouping (GROUP BY, HAVING), conditional logic (CASE statements), and pattern matching (LIKE) to verify business rules and extract meaningful validation insights.
 
-- Focused on validating data correctness, business logic accuracy, and edge-case handling across multiple relational tables.
+- Focused on identifying data inconsistencies, validating financial calculations, and ensuring edge-case handling across large relational datasets used for investment reporting and analytics.
 
 ---
 
