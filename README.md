@@ -1,8 +1,5 @@
 # QA Engineer Portfolio - Manual & Automation Testing
 
-
----
-
 ## 👤 About Me
 
 ### 💼 QA Engineer (Entry-Level)
