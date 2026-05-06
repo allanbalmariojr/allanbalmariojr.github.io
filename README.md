@@ -38,7 +38,7 @@ SQL Data Validation, JSON Response Validation
 
 ### 🛠️ Tools
 
-Postman, Swagger, Jira, Git/GitHub, Chrome DevTools, Android Emulator
+Postman, Swagger, Jira, Git/GitHub, Chrome DevTools, Android Studio
 
 ---
 
