@@ -13,7 +13,7 @@ I have hands-on experience working across UI, API and database validation using 
 
 - 📧 Email: AllanBAlmarioJr@gmail.com
 - 🔗 LinkedIn: [Allan B. Almario Jr.](https://www.linkedin.com/in/allanalmariojr/)
-- 📄 Resume: [View Resume](https://github.com/user-attachments/files/27022432/Github.Resume.docx)
+- 📄 Resume: [View Resume](https://github.com/user-attachments/files/27455871/Allan_Almario_Resume_DSHS.docx)
 - 📍 Location: Lakewood, WA
 
 ---
