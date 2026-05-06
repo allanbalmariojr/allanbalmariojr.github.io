@@ -43,7 +43,9 @@ Postman, Swagger, Jira, Git/GitHub, Chrome DevTools, Android Emulator
 ---
 
 ## 📂 Featured Projects
-- [Urban Routes Selenium Automation](https://github.com/allanbalmariojr/selenium-automation-urban-routes)
+### 🔹 [Urban Routes Selenium Automation](https://github.com/allanbalmariojr/selenium-automation-urban-routes)
+Automated complete end-to-end user flows including route setup, phone authentication (SMS verification), payment method (card), and taxi order placement using Selenium WebDriver, Python, and PyTest.
+
 -
 -
 -
