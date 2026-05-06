@@ -52,6 +52,7 @@ Postman, Swagger, Jira, Git/GitHub, Chrome DevTools, Android Studio
 
 - Covered comprehensive test scenarios including positive and negative cases, boundary value testing, XML payload validation, ID and quantity constraints, and error-handling behavior under invalid inputs.
 
+### 🔹 [VentureInsight SQL Data Validation & Analysis](https://github.com/allanbalmariojr/ventureinsight-sql-data-validation)
 
 
 ---
