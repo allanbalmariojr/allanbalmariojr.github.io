@@ -41,16 +41,16 @@ Postman, Swagger, Jira, Git/GitHub, Chrome DevTools, Android Studio
 
 ## 📂 Featured Projects
 ### 🔹 [Urban Routes Selenium Automation](https://github.com/allanbalmariojr/selenium-automation-urban-routes)
-Automated end-to-end user workflows for a taxi booking application, including route setup, phone authentication (SMS verification), payment method configuration, and final ride ordering using Selenium WebDriver, Python, and PyTest.
+- Automated end-to-end user workflows for a taxi booking application, including route setup, phone authentication (SMS verification), payment method configuration, and final ride ordering using Selenium WebDriver, Python, and PyTest.
 
-Implemented a Page Object Model (POM) architecture to improve scalability, maintainability, and separation of test logic from page interactions. Utilized explicit waits and synchronization strategies to ensure stable and reliable test execution.
+- Implemented a Page Object Model (POM) architecture to improve scalability, maintainability, and separation of test logic from page interactions. Utilized explicit waits and synchronization strategies to ensure stable and reliable test execution.
 
 ### 🔹 [Urban Grocers API Testing Framework](https://github.com/allanbalmariojr/urban-grocers-api-tests)
-Designed and executed REST API test cases for the Urban Grocers backend using Postman.
+- Designed and executed REST API test cases for the Urban Grocers backend using Postman.
 
-Validated key API endpoints for product-to-kit management and fast-delivery calculation functionality, focusing on response correctness, status codes, and payload structure.
+- Validated key API endpoints for product-to-kit management and fast-delivery calculation functionality, focusing on response correctness, status codes, and payload structure.
 
-Covered comprehensive test scenarios including positive and negative cases, boundary value testing, XML payload validation, ID and quantity constraints, and error-handling behavior under invalid inputs.
+- Covered comprehensive test scenarios including positive and negative cases, boundary value testing, XML payload validation, ID and quantity constraints, and error-handling behavior under invalid inputs.
 
 
 
