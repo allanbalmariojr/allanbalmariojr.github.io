@@ -43,7 +43,8 @@ Postman, Swagger, Jira, Git/GitHub, Chrome DevTools, Android Emulator
 ---
 
 ## 📂 Featured Projects
-- [Urban Routes Automation Framework](https://github.com/allanbalmariojr/selenium-automation-urban-routes)
+- [Urban Routes Selenium Automation](https://github.com/allanbalmariojr/selenium-automation-urban-routes)
+End-to-end UI automation framework using Selenium and PyTeset with Page Object Model.
 -
 -
 -
