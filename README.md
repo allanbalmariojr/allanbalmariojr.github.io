@@ -43,10 +43,10 @@ Postman, Swagger, Jira, Git/GitHub, Chrome DevTools, Android Emulator
 ---
 
 ## 📂 Featured Projects
-- [Manual, API & SQL Testing Suite (QA Portfolio)](https://github.com/allanbalmariojr/Manual-API-SQL-Testing-Suite-QA-Portfolio-)
-- Selenium Automation Framework (Python + POM) - Repo 2
-- Playwright UI Automation Project - Repo 3
-- End-to-End QA Testing System (Web, Mobile & API) - Repo 4
+- [Urban Routes Automation Framework](https://github.com/allanbalmariojr/Manual-API-SQL-Testing-Suite-QA-Portfolio-)
+-
+-
+-
 
 ---
 
