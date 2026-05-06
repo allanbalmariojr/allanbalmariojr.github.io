@@ -46,9 +46,11 @@ Automated complete end-to-end user flows including route setup, phone authentica
 Implemented a Page Object Model (POM) framework to improve maintainability and separation of concerns across test logic and page interactions.
 
 ### 🔹 [Urban Grocers API Testing Framework](https://github.com/allanbalmariojr/urban-grocers-api-tests)
-Designed and executed REST API test cases for the Urban Grocers application using Postman. 
+Designed and executed REST API test cases for the Urban Grocers backend using Postman.
 
-Validated endpoints through positive and negative test scenarios, including status codes, request payloads, and response body structure.
+Focused on validating request/response behavior for product-to-kit functionality and fast-delivery calculation endpoints.
+
+Covered positive, negative, boundary, and data validation scenarios including XML payload handling, ID constraints, and quantity limits.
 
 
 
