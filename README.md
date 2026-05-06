@@ -41,25 +41,23 @@ Postman, Swagger, Jira, Git/GitHub, Chrome DevTools, Android Studio
 
 ## 📂 Featured Projects
 ### 🔹 [Urban Routes Selenium Automation](https://github.com/allanbalmariojr/selenium-automation-urban-routes)
-- Automated end-to-end user workflows for a taxi booking application, including route setup, phone authentication (SMS verification), payment method configuration, and final ride ordering using Selenium WebDriver, Python, and PyTest.
+- Automated end-to-end taxi booking workflows using Selenium WebDriver, Python, and PyTest, including route setup, SMS authentication, payment configuration, and ride booking.
 
-- Implemented a Page Object Model (POM) architecture to improve scalability, maintainability, and separation of test logic from page interactions. Utilized explicit waits and synchronization strategies to ensure stable and reliable test execution.
+- Implemented a Page Object Model (POM) framework to improve maintainability and separation of test logic. Used explicit waits and synchronization strategies to ensure stable test execution.
 
 ### 🔹 [Urban Grocers API Testing Framework](https://github.com/allanbalmariojr/urban-grocers-api-tests)
-- Designed and executed REST API test cases for the Urban Grocers backend using Postman.
+- Designed and executed REST API test cases for backend validation using Postman.
 
-- Validated key API endpoints for product-to-kit management and fast-delivery calculation functionality, focusing on response correctness, status codes, and payload structure.
+- Tested product-to-kit and fast-delivery endpoints, focusing on response correctness, status codes, and payload validation.
 
-- Covered comprehensive test scenarios including positive and negative cases, boundary value testing, XML payload validation, ID and quantity constraints, and error-handling behavior under invalid inputs.
+- Covered positive, negative, and boundary scenarios including XML payload handling, ID/quantity constraints, and error-response validation.
 
 ### 🔹 [VentureInsight SQL Data Validation & Analysis](https://github.com/allanbalmariojr/ventureinsight-sql-data-validation)
-- Performed structured database validation and backend data testing for a venture capital analytics platform using SQL.
+- Performed backend data validation for a venture capital analytics system using SQL.
 
-- Designed and executed complex SQL queries to validate data integrity, business logic consistency, and application-to-database alignment across multiple relational tables, including startups, funding rounds, acquisitions, investments, and investor profiles.
+- Built queries to verify data integrity and business logic across startups, funding rounds, acquisitions, and investments.
 
-- Applied core SQL testing techniques such as filtering (WHERE), aggregation (SUM, COUNT, AVG), grouping (GROUP BY, HAVING), conditional logic (CASE statements), and pattern matching (LIKE) to verify business rules and extract meaningful validation insights.
-
-- Focused on identifying data inconsistencies, validating financial calculations, and ensuring edge-case handling across large relational datasets used for investment reporting and analytics.
+- Used filtering, aggregation, grouping, CASE logic, and pattern matching to validate financial data consistency and detect anomalies across relational tables.
 
 ---
 
