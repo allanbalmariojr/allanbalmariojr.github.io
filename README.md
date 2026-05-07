@@ -19,10 +19,10 @@ I have built end-to-end testing experience across web and mobile applications, i
 
 ## 🧠 Skills & Tools
 
-### Testing Tools: Postman, Swagger, Jira
-### Automation: Selenium, PyTest
-### Dev Tools: Chrome DevTools, Android Studio
-### Version Control: Git/GitHub
+- Testing Tools: Postman, Swagger, Jira
+- Automation: Selenium, PyTest
+- Dev Tools: Chrome DevTools, Android Studio
+- Version Control: Git/GitHub
 
 ---
 
