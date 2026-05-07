@@ -45,12 +45,16 @@ Postman, Swagger, Jira, Git/GitHub, Chrome DevTools, Android Studio
 
 - Implemented a Page Object Model (POM) framework to improve maintainability and separation of test logic. Used explicit waits and synchronization strategies to ensure stable test execution.
 
+---
+
 ### 🔹 [Urban Grocers API Testing Framework](https://github.com/allanbalmariojr/urban-grocers-api-tests)
 - Designed and executed REST API test cases for backend validation using Postman.
 
 - Tested product-to-kit and fast-delivery endpoints, focusing on response correctness, status codes, and payload validation.
 
 - Covered positive, negative, and boundary scenarios including XML payload handling, ID/quantity constraints, and error-response validation.
+
+---
 
 ### 🔹 [VentureInsight SQL Data Validation & Analysis](https://github.com/allanbalmariojr/ventureinsight-sql-data-validation)
 - Performed backend data validation for a venture capital analytics system using SQL.
