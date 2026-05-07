@@ -64,8 +64,7 @@ Postman, Swagger, Jira, Git/GitHub, Chrome DevTools, Android Studio
 - Performed backend data validation for a venture capital analytics system using SQL.
 
 - Built queries to verify:
-
-- Data integrity across relational tables
+  - Data integrity across relational tables
   - Business rule consistency
   - Financial aggregation accuracy
   - Edge cases using filtering, grouping, and CASE logic
