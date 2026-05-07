@@ -82,7 +82,7 @@ Postman, Swagger, Jira, Git/GitHub, Chrome DevTools, Android Studio
 
 ## 🐞 Bug Reporting Experience
 
-- Experienced in structured defect reporting in Jira across web and mobile testing environments. Reports included clear reproduction steps, expected vs actual behavior, and environment context to support developer debugging and issue resolution.
+- Experienced in structured defect reporting in Jira across web and mobile testing environments. Reports included title, summary, clear reproduction steps, expected vs actual behavior, and environment context to support developer debugging and issue resolution.
 
 - Applied across multiple sprint-based testing projects.
 
