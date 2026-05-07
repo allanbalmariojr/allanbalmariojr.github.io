@@ -70,7 +70,9 @@ I have worked across web and mobile applications, including:
 
 ## 🐞 Bug Reporting Experience
 
-- Experienced in structured defect reporting in Jira across web and mobile testing environments. Reports included title, summary, clear reproduction steps, expected vs actual behavior, and environment context to support developer debugging and issue resolution.
+- Experienced in structured defect reporting in Jira across web and mobile testing environments. 
+
+- Reports included: title, summary, clear reproduction steps, expected vs actual behavior, and environment context to support developer debugging and issue resolution.
 
 - Applied across multiple sprint-based testing projects.
 
