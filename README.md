@@ -17,15 +17,15 @@ I have built end-to-end testing experience across web and mobile applications, i
 
 ---
 
-## 🧠 QA Skills & Tools
+## 🧠 Skills & Tools
 
 ### 🧪 Testing Types
 
-Manual Testing, API Testing, UI Testing, Mobile Testing, Regression Testing
+Manual Testing, API Testing, UI Testing, Mobile Testing, Regression Testing, Exploratory Testing
 
 ###  📐 Test Design Techniques
 
-Equivalence Partitioning (EP), Boundary Value Analysis (BVA), Functional Testing, Exploratory Testing
+Equivalence Partitioning (EP), Boundary Value Analysis (BVA), Functional Testing, Negative Testing
 
 ### 🤖 Automation
 
@@ -43,27 +43,33 @@ Postman, Swagger, Jira, Git/GitHub, Chrome DevTools, Android Studio
 
 ## 📂 Featured Projects
 ### 🔹 [Urban Routes Selenium Automation](https://github.com/allanbalmariojr/selenium-automation-urban-routes)
-- Automated end-to-end taxi booking workflows using Selenium WebDriver, Python, and PyTest, including route setup, SMS authentication, payment configuration, and ride booking.
+- Automated end-to-end taxi booking workflows using Selenium WebDriver, Python, and PyTest.
 
-- Implemented a Page Object Model (POM) framework to improve maintainability and separation of test logic. Used explicit waits and synchronization strategies to ensure stable test execution.
+- Implemented a Page Object Model (POM) architecture to improve maintainability and separation of test logic. Used explicit waits and synchronization strategies to ensure stable test execution.
 
 ---
 
 ### 🔹 [Urban Grocers API Testing Framework](https://github.com/allanbalmariojr/urban-grocers-api-tests)
-- Designed and executed REST API test cases for backend validation using Postman.
+- Designed and executed REST API test cases using Postman.
 
-- Tested product-to-kit and fast-delivery endpoints, focusing on response correctness, status codes, and payload validation.
+- Validated product-to-kit and fast-delivery endpoints, focusing on:
 
-- Covered positive, negative, and boundary scenarios including XML payload handling, ID/quantity constraints, and error-response validation.
+- Status code verification
+  - Response structure validation
+  - Positive, negative, and boundary test scenarios
+  - XML payload and constraint validation
 
 ---
 
 ### 🔹 [VentureInsight SQL Data Validation & Analysis](https://github.com/allanbalmariojr/ventureinsight-sql-data-validation)
 - Performed backend data validation for a venture capital analytics system using SQL.
 
-- Built queries to verify data integrity and business logic across startups, funding rounds, acquisitions, and investments.
+- Built queries to verify:
 
-- Used filtering, aggregation, grouping, CASE logic, and pattern matching to validate financial data consistency and detect anomalies across relational tables.
+- Data integrity across relational tables
+  - Business rule consistency
+  - Financial aggregation accuracy
+  - Edge cases using filtering, grouping, and CASE logic
 
 ---
 
@@ -73,6 +79,19 @@ Postman, Swagger, Jira, Git/GitHub, Chrome DevTools, Android Studio
 - Design test cases using equivalence partitioning and boundary value analysis
 - Write clear, reproducible bug reports with detailed steps
 - Build maintainable automation frameworks using Selenium and POM
+
+---
+
+## 🐞 Bug Reporting Experience
+
+Experienced in writing structured defect reports in Jira with:
+- Clear reproduction steps
+- Expected vs actual results
+- Environment details
+- Consistent formatting for developer readability
+
+Applied across multiple sprint-based testing projects.
+
 
 ---
 
