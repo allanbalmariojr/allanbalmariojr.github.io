@@ -3,9 +3,9 @@
 ## 👤 About Me
 Entry-level QA Engineer with hands-on experience in manual testing, API validation, database testing, and UI automation.
 
-Experience across end-to-end QA workflows, from requirements analysis and test design to execution, defect reporting, and backend validation.
+Experienced in end-to-end QA workflows, from requirements analysis and test design to execution, defect reporting, and backend validation.
 
-I have built end-to-end testing experience across web and mobile applications, including:
+I have worked across web and mobile applications, including:
 - Test case design and execution
 - Bug reporting and defect tracking (Jira)
 - API testing (Postman)
