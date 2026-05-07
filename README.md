@@ -53,8 +53,7 @@ Postman, Swagger, Jira, Git/GitHub, Chrome DevTools, Android Studio
 - Designed and executed REST API test cases using Postman.
 
 - Validated product-to-kit and fast-delivery endpoints, focusing on:
-
-- Status code verification
+  - Status code verification
   - Response structure validation
   - Positive, negative, and boundary test scenarios
   - XML payload and constraint validation
