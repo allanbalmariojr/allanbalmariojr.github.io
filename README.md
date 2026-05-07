@@ -21,7 +21,8 @@ I have worked across web and mobile applications, including:
 
 ## 🧠 Skills & Tools
 
-- Testing Tools: Postman, Swagger, Jira
+- Testing Tools: Postman, Jira
+- API Documentation: Swagger, APIDoc
 - Automation: Selenium, PyTest
 - Dev Tools: Chrome DevTools, Android Studio
 - Version Control: Git/GitHub
