@@ -10,10 +10,10 @@ I have built end-to-end testing experience across web and mobile applications, i
 - SQL-based data validation
 - Selenium automation frameworks using Python and PyTest
 
-- 📧 Email: AllanBAlmarioJr@gmail.com
-- 🔗 LinkedIn: [Allan B. Almario Jr.](https://www.linkedin.com/in/allanalmariojr/)
-- 📄 Resume: [View Resume](https://github.com/user-attachments/files/27455871/Allan_Almario_Resume_DSHS.docx)
-- 📍 Location: Lakewood, WA
+### 📧 Email: AllanBAlmarioJr@gmail.com
+### 🔗 LinkedIn: [Allan B. Almario Jr.](https://www.linkedin.com/in/allanalmariojr/)
+### 📄 Resume: [View Resume](https://github.com/user-attachments/files/27455871/Allan_Almario_Resume_DSHS.docx)
+### 📍 Location: Lakewood, WA
 
 ---
 
