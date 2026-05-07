@@ -38,7 +38,7 @@ I have worked across web and mobile applications, including:
 ---
 
 ### 🔹 [Urban Grocers API Testing Framework](https://github.com/allanbalmariojr/urban-grocers-api-tests)
-- Designed and executed REST API test cases using Postman.
+- Designed and executed 67 REST API test cases using Postman.
 
 - Validated product-to-kit and fast-delivery endpoints, focusing on:
   - Status code verification
