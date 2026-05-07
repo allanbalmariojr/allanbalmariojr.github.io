@@ -19,25 +19,10 @@ I have built end-to-end testing experience across web and mobile applications, i
 
 ## 🧠 Skills & Tools
 
-### 🧪 Testing Types
-
-Manual Testing, API Testing, UI Testing, Mobile Testing, Regression Testing, Exploratory Testing
-
-###  📐 Test Design Techniques
-
-Equivalence Partitioning (EP), Boundary Value Analysis (BVA), Functional Testing, Negative Testing
-
-### 🤖 Automation
-
-Selenium WebDriver (Python), Pytest, Page Object Model (POM)
-
-### 🗄️ Data & Backend Validation
-
-SQL Data Validation, JSON Response Validation
-
-### 🛠️ Tools
-
-Postman, Swagger, Jira, Git/GitHub, Chrome DevTools, Android Studio
+### Testing Tools: Postman, Swagger, Jira
+### Automation: Selenium, PyTest
+### Dev Tools: Chrome DevTools, Android Studio
+### Version Control: Git/GitHub
 
 ---
 
