@@ -81,8 +81,7 @@ I have worked across web and mobile applications, including:
 
 [TripleTen QA Engineer Program - Certificate of Completion (April 2026)](https://github.com/user-attachments/files/27022731/Allan.Baquiran_Almario.Jr_QA.1.pdf)
 
-
-- Training in manual testing, API testing, SQL validation, and UI automation using Selenium (Python) and Pytest.
+---
 
 
 
