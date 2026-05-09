@@ -87,8 +87,7 @@ I have worked across web and mobile applications, including:
 
 ## 🎓 Education
 
-[Associate of Arts (AA) in Computer Science
-Tacoma Community College](https://github.com/user-attachments/files/27560058/d3b72b90-4bfc-11f1-85a3-9340f60ac15e.pdf)
+[Tacoma Community College - Associate of Arts (AA) in Computer Science](https://github.com/user-attachments/files/27560058/d3b72b90-4bfc-11f1-85a3-9340f60ac15e.pdf)
 
 
 
