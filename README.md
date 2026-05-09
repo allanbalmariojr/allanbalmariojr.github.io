@@ -83,6 +83,14 @@ I have worked across web and mobile applications, including:
 
 [TripleTen QA Engineer Program - Certificate of Completion (April 2026)](https://github.com/user-attachments/files/27022731/Allan.Baquiran_Almario.Jr_QA.1.pdf)
 
+---
+
+## 🎓 Education
+
+[Associate of Arts (AA) in Computer Science
+
+Tacoma Community College](https://github.com/user-attachments/files/27560058/d3b72b90-4bfc-11f1-85a3-9340f60ac15e.pdf)
+
 
 
 
