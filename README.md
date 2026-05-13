@@ -15,7 +15,8 @@ I have worked across web and mobile applications, including:
 
 ### 📧 Email: AllanBAlmarioJr@gmail.com
 ### 🔗 LinkedIn: [Allan B. Almario Jr.](https://www.linkedin.com/in/allanalmariojr/)
-### 📄 Resume: [View Resume](https://github.com/user-attachments/files/27560669/Allan_Almario_Resume.docx)
+### 📄 Resume: [View Resume](https://github.com/user-attachments/files/27731158/Allan_Almario_Resume.7.2.pdf)
+
 ### 📍 Location: Lakewood, WA
 
 ---
