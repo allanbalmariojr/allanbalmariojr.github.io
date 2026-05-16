@@ -2,16 +2,17 @@
 # QA Engineer Portfolio - Manual & Automation Testing
 
 ## 👤 About Me
-Entry-level QA Engineer with hands-on experience in manual testing, API validation, database testing, and UI automation.
+Entry-level QA Engineer with hands-on experience in manual testing, API testing, database validation, and UI automation using Python and Selenium.
 
-Experienced in end-to-end QA workflows, from requirements analysis and test design to execution, defect reporting, and backend validation.
+Experienced in Agile QA workflows including requirements analysis, test case design, execution, defect reporting, and backend validation across web and mobile applications.
 
-I have worked across web and mobile applications, including:
-- Test case design and execution
-- Bug reporting and defect tracking (Jira)
-- API testing (Postman)
-- SQL-based data validation
-- Selenium automation frameworks using Python and PyTest
+Skilled in:
+
+Test case design and execution
+Bug reporting and defect tracking (Jira)
+API testing (Postman, REST APIs)
+SQL data validation
+UI automation with Selenium, PyTest, and Python
 
 ### 📧 Email: AllanBAlmarioJr@gmail.com
 ### 🔗 LinkedIn: [Allan B. Almario Jr.](https://www.linkedin.com/in/allanalmariojr/)
