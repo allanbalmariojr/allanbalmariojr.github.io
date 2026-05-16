@@ -6,8 +6,6 @@ Entry-level QA Engineer with hands-on experience in manual testing, API testing,
 
 Experienced in end-to-end QA workflows including requirements analysis, test design, execution, and defect reporting within Agile environments.
 
-Skilled in QA automation using Python, Selenium WebDriver, and Page Object Model (POM), along with API testing (Postman) and SQL-based data validation.
-
 ### 📧 Email: AllanBAlmarioJr@gmail.com
 ### 🔗 LinkedIn: [Allan B. Almario Jr.](https://www.linkedin.com/in/allanalmariojr/)
 ### 📄 Resume: [View Resume](https://github.com/user-attachments/files/27731158/Allan_Almario_Resume.7.2.pdf)
